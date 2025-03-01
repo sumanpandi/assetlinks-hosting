@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "com.techsukras.pp_user_client",
+      "package_name": "com.techsukras.pp_user_client",
+      "sha256_cert_fingerprints": [
+        "F6:C7:B9:3C:C8:EC:18:39:43:5C:BB:03:65:08:8F:C4:54:AE:24:77:CC:F2:DA:D6:4F:75:21:EA:16:78:A0:11"
+      ]
+    }
+  }
+]
